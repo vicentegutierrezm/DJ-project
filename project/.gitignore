@@ -1,0 +1,28 @@
+# Python bytecode
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+.env
+ENV/
+
+# Base de datos (No querrás subir tus datos locales a GitHub)
+*.sqlite3
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Media y Static (Archivos subidos por usuarios)
+media/
+staticfiles/
+
+# Logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
