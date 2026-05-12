@@ -1,5 +1,5 @@
 """
-ASGI config for project project.
+ASGI (Asynchronous Server Gateway Interface) config for project project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
